@@ -225,7 +225,7 @@ int main()
 				}
 			}
 
-      // Se hace el miso tablero con la posición actualizada después del turno de cada jugador
+      // Se hace el mismo tablero con la posición actualizada después del turno de cada jugador
 			num = num + 1;
 			cout << '\n' << "--------------" << '\n';
 			cout << " | " << a1 << " | " << a2 << " | " << a3 << " | ";
